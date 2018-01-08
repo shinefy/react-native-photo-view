@@ -24,7 +24,7 @@ public class PhotoViewManager extends SimpleViewManager<PhotoView> {
 
     private ResourceDrawableIdHelper mResourceDrawableIdHelper;
 
-    PhotoViewManager(ReactApplicationContext context) {
+    public PhotoViewManager(ReactApplicationContext context) {
         mResourceDrawableIdHelper = new ResourceDrawableIdHelper();
     }
 
