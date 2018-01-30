@@ -1,13 +1,44 @@
 {
-  "name": "react-native-photo-view",
-  "version": "1.5.2",
-  "description": "Displaying photos with pinch-to-zoom",
-  "main": "index.js",
-  "author": {
-    "name": "Alexander Pantyukhov",
-    "email": "alwxndr@gmail.com"
+  "_args": [
+    [
+      "react-native-super-photo-view@1.5.2",
+      "/Users/shinefy/Code/work_new/iWorking_RN"
+    ]
+  ],
+  "_from": "react-native-super-photo-view@1.5.2",
+  "_id": "react-native-super-photo-view@1.5.2",
+  "_inBundle": false,
+  "_integrity": "sha512-pgwihVZq01blUT/s2QQvYTr8nC6L5wEwmds8yERNqF7sIN4RkLtVacCVUln/Uo3EUizsAnJzqMi5mw3ClsQwbA==",
+  "_location": "/react-native-super-photo-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-super-photo-view@1.5.2",
+    "name": "react-native-super-photo-view",
+    "escapedName": "react-native-super-photo-view",
+    "rawSpec": "1.5.2",
+    "saveSpec": null,
+    "fetchSpec": "1.5.2"
   },
-  "license": "MIT",
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-super-photo-view/-/react-native-super-photo-view-1.5.2.tgz",
+  "_spec": "1.5.2",
+  "_where": "/Users/shinefy/Code/work_new/iWorking_RN",
+  "author": {
+    "name": "wangce",
+    "email": "756694434@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/shinefy/react-native-photo-view/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "description": "Displaying photos with pinch-to-zoom , via https://github.com/alwx/react-native-photo-view",
+  "homepage": "https://github.com/shinefy/react-native-photo-view",
   "keywords": [
     "react-native",
     "react-component",
@@ -19,15 +50,12 @@
     "pinch-to-zoom",
     "mobile"
   ],
-  "homepage": "https://github.com/alwx/react-native-photo-view",
-  "bugs": {
-    "url": "https://github.com/alwx/react-native-photo-view/issues"
-  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-super-photo-view",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alwx/react-native-photo-view.git"
+    "url": "git+https://github.com/shinefy/react-native-photo-view.git"
   },
-  "dependencies": {
-    "prop-types": "^15.5.10"
-  }
+  "version": "1.5.2"
 }
